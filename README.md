@@ -68,9 +68,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Minmgf/Minmgf/output/snake.svg" alt="Snake animation" />
-
-###
