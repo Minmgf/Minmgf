@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQFfVV9yCMY-XA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739390344360?e=1746057600&v=beta&t=6r47zY1rtAfrBLLHxGKGpSjTnpBeKeFhpAF-A1XPeGQ"  />
-</div>
-
 ###
 
 <h2 align="left">👋 Hello, I'm Manuel Navarro, a frontend developer passionate about technology and creating intuitive digital experiences. I love working with modern technologies to optimize performance and accessibility on the web.</h2>
