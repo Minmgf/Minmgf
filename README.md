@@ -1,7 +1,5 @@
 ###
-
 <h2 align="left">👋 Hello, I'm Manuel Navarro, a frontend developer passionate about technology and creating intuitive digital experiences. I love working with modern technologies to optimize performance and accessibility on the web.</h2>
-
 ###
 
 <div align="center">
