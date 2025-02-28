@@ -1,6 +1,4 @@
-###
 <h2 align="left">👋 Hello, I'm Manuel Navarro, a frontend developer passionate about technology and creating intuitive digital experiences. I love working with modern technologies to optimize performance and accessibility on the web.</h2>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minmgf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
